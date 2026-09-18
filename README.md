@@ -1,5 +1,5 @@
 # AI-Exellence-Track-UP
-
+by proff khaled rabayah 
 | # | Date | Lecture | Link |
 |---|---------|-----------|---------|
 | 01 | Nov 11, 2025 | Lecture 1 | [ Watch](https://aaup.zoom.us/rec/share/m4LLj0XT-9QZ14ejFRdy9VYuU8JxMA71x-ta1dqtfH1WZ2grRvgtHPzirYogTD7e.770uF3Y4AG59WcUa) |
